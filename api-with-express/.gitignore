@@ -1,0 +1,8 @@
+/node_modules
+/dist
+/nodejs_dc.log
+/nodejs_restclient.log
+/resourceRegistry.log
+/.env
+/prisma/dev.db
+/prisma/dev.db-journal
